@@ -1,0 +1,96 @@
+[
+{
+    "id": "halvorsons",
+    "name": "Halvorson's",
+    "address": "16 Church St",
+    "phone number": "8026580278",
+    "hours": "12-9",
+    "notes": [
+        "Diverse American menu.",
+        "Really good sandwiches."
+    ]
+},
+
+{
+    "id": "leunigs",
+    "name": "Leunig's Bistro",
+    "address": "115 Church St",
+    "phone number": "8028633759",
+    "hours": "11-9",
+    "notes": [
+        "French bistro style",
+        "Beef borguinon is the best"
+    ]
+},
+
+{
+    "id": "kkds",
+    "name": "Kountry Kart Deli",
+    "address": "155 Main St",
+    "phone number": "8028644408",
+    "hours": "6:30-10",
+    "notes": [
+        "Best late night faire around"
+    ]
+},
+
+{
+    "id": "kru",
+    "name": "Kru Coffee",
+    "address": "2 Church St",
+    "phone number": "5182321524",
+    "hours": "8-5",
+    "notes": [
+        "Great coffee and great donuts"
+    ]
+},
+
+{
+    "id": "cortijo",
+    "name": "El Cortijo",
+    "address": "189 Bank St",
+    "phone number": "8024971668",
+    "hours": "4-9",
+    "notes": [
+        "Authentic Mexican food",
+        "Great Margs"
+    ]
+},
+
+{
+    "id": "penny-cluse",
+    "name": "Penny Cluse",
+    "address": "169 Cherry St",
+    "phone number": "8026518834",
+    "hours": "9-3",
+    "notes": [
+        "Superb breakfast food",
+        "Bernie Sanders loves this place!"
+    ]
+},
+
+{
+    "id": "farmhouse",
+    "name": "Farmhouse Tap & Grill",
+    "address": "160 Bank St",
+    "phone number": "8028590888",
+    "hours": "4-11",
+    "notes": [
+        "Fresh farm to table dining",
+        "Great draft list"
+    ]
+},
+
+{
+    "id": "honey-road",
+    "name": "Honey Road",
+    "address": "156 Church St",
+    "phone number": "8024972145",
+    "hours": "12-8",
+    "notes": [
+        "Sophisticated Mediterranean small plates",
+        "Delicious baked goods every weekend and turkish coffee!"
+    ]
+}
+
+]
